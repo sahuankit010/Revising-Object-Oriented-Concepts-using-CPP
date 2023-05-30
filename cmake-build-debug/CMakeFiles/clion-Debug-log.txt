@@ -1,0 +1,34 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=usr/bin/make -DCMAKE_C_COMPILER=/usr/bin/cc -DCMAKE_CXX_COMPILER=/usr/bin/g++ -G "CodeBlocks - Unix Makefiles" -S /Users/sahuankit010/Desktop/Repo/Revising-Object-Oriented-Concepts-using-CPP -B /Users/sahuankit010/Desktop/Repo/Revising-Object-Oriented-Concepts-using-CPP/cmake-build-debug
+-- The C compiler identification is AppleClang 14.0.3.14030022
+-- The CXX compiler identification is AppleClang 14.0.3.14030022
+-- Detecting C compiler ABI info
+CMake Error: Generator: execution of make failed. Make command was: usr/bin/make -f Makefile cmTC_3bf82/fast && 
+-- Detecting C compiler ABI info - failed
+-- Check for working C compiler: /usr/bin/cc
+CMake Error: Generator: execution of make failed. Make command was: usr/bin/make -f Makefile cmTC_637cd/fast && 
+-- Check for working C compiler: /usr/bin/cc - broken
+CMake Error at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CMakeTestCCompiler.cmake:70 (message):
+  The C compiler
+
+    "/usr/bin/cc"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: /Users/sahuankit010/Desktop/Repo/Revising-Object-Oriented-Concepts-using-CPP/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-vKRpBT
+    
+    Run Build Command(s):usr/bin/make -f Makefile cmTC_637cd/fast && No such file or directory
+    Generator: execution of make failed. Make command was: usr/bin/make -f Makefile cmTC_637cd/fast && 
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "/Users/sahuankit010/Desktop/Repo/Revising-Object-Oriented-Concepts-using-CPP/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/Users/sahuankit010/Desktop/Repo/Revising-Object-Oriented-Concepts-using-CPP/cmake-build-debug/CMakeFiles/CMakeError.log".
