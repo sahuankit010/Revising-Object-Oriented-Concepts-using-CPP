@@ -2,3 +2,6 @@
 .o
 .vscode
 .plist
+
+.DS_Store
+.idea/

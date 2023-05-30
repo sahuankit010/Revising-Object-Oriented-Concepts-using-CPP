@@ -1,10 +1,3 @@
-/******************************************************************************
-
-                              Online C++ Compiler.
-               Code, Compile, Run and Debug C++ program online.
-Write your code in this editor and press "Run" button to compile and execute it.
-
-*******************************************************************************/
 
 #include <iostream>
 
@@ -15,8 +8,8 @@ class calculator{
     int a,b;
     public:
     calculator(int a, int b){
-        this->a=a;
-        this->b=b;
+        this->a = a;
+        this->b = b;
     }
     // public:
     int add(){
@@ -35,7 +28,7 @@ class calculator{
 };
 int main()
 {
-    cout<<"Hello World";
+    std::cout<<"Hello World";
     cout<<endl;
     int a, b;
     cin>>a>>b;
