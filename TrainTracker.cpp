@@ -4,7 +4,7 @@
 #include <iostream>
 
 // Node structure for a train
-struct TrainNode {
+struct TrainNode {  
     int trainNumber;
     TrainNode *next;
 
