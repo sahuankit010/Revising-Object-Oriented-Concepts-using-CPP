@@ -223,3 +223,78 @@ Run Build Command(s):usr/bin/make -f Makefile cmTC_a179f/fast && No such file or
 Generator: execution of make failed. Make command was: usr/bin/make -f Makefile cmTC_a179f/fast && 
 
 
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /Users/sahuankit010/Desktop/Repo/Revising-Object-Oriented-Concepts-using-CPP/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-bEYu0g
+
+Run Build Command(s):usr/bin/make -f Makefile cmTC_e3f74/fast && No such file or directory
+Generator: execution of make failed. Make command was: usr/bin/make -f Makefile cmTC_e3f74/fast && 
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /Users/sahuankit010/Desktop/Repo/Revising-Object-Oriented-Concepts-using-CPP/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-mitwFv
+
+Run Build Command(s):usr/bin/make -f Makefile cmTC_f80ce/fast && No such file or directory
+Generator: execution of make failed. Make command was: usr/bin/make -f Makefile cmTC_f80ce/fast && 
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /Users/sahuankit010/Desktop/Repo/Revising-Object-Oriented-Concepts-using-CPP/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-Ep5cBQ
+
+Run Build Command(s):usr/bin/make -f Makefile cmTC_2536a/fast && No such file or directory
+Generator: execution of make failed. Make command was: usr/bin/make -f Makefile cmTC_2536a/fast && 
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /Users/sahuankit010/Desktop/Repo/Revising-Object-Oriented-Concepts-using-CPP/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-tveM3k
+
+Run Build Command(s):usr/bin/make -f Makefile cmTC_87a61/fast && No such file or directory
+Generator: execution of make failed. Make command was: usr/bin/make -f Makefile cmTC_87a61/fast && 
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /Users/sahuankit010/Desktop/Repo/Revising-Object-Oriented-Concepts-using-CPP/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-vxXKWQ
+
+Run Build Command(s):usr/bin/make -f Makefile cmTC_81c78/fast && No such file or directory
+Generator: execution of make failed. Make command was: usr/bin/make -f Makefile cmTC_81c78/fast && 
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /Users/sahuankit010/Desktop/Repo/Revising-Object-Oriented-Concepts-using-CPP/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-vNmw79
+
+Run Build Command(s):usr/bin/make -f Makefile cmTC_72490/fast && No such file or directory
+Generator: execution of make failed. Make command was: usr/bin/make -f Makefile cmTC_72490/fast && 
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /Users/sahuankit010/Desktop/Repo/Revising-Object-Oriented-Concepts-using-CPP/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-b9Ruxw
+
+Run Build Command(s):usr/bin/make -f Makefile cmTC_a5142/fast && No such file or directory
+Generator: execution of make failed. Make command was: usr/bin/make -f Makefile cmTC_a5142/fast && 
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /Users/sahuankit010/Desktop/Repo/Revising-Object-Oriented-Concepts-using-CPP/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-OnBzCQ
+
+Run Build Command(s):usr/bin/make -f Makefile cmTC_fa271/fast && No such file or directory
+Generator: execution of make failed. Make command was: usr/bin/make -f Makefile cmTC_fa271/fast && 
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /Users/sahuankit010/Desktop/Repo/Revising-Object-Oriented-Concepts-using-CPP/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-f971bF
+
+Run Build Command(s):usr/bin/make -f Makefile cmTC_acbf3/fast && No such file or directory
+Generator: execution of make failed. Make command was: usr/bin/make -f Makefile cmTC_acbf3/fast && 
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /Users/sahuankit010/Desktop/Repo/Revising-Object-Oriented-Concepts-using-CPP/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-qAmJZF
+
+Run Build Command(s):usr/bin/make -f Makefile cmTC_30fe7/fast && No such file or directory
+Generator: execution of make failed. Make command was: usr/bin/make -f Makefile cmTC_30fe7/fast && 
+
+
