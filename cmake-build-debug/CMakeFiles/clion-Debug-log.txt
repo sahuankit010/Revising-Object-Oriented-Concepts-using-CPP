@@ -2,10 +2,10 @@
 -- The C compiler identification is AppleClang 14.0.3.14030022
 -- The CXX compiler identification is AppleClang 14.0.3.14030022
 -- Detecting C compiler ABI info
-CMake Error: Generator: execution of make failed. Make command was: usr/bin/make -f Makefile cmTC_acbf3/fast && 
+CMake Error: Generator: execution of make failed. Make command was: usr/bin/make -f Makefile cmTC_1717f/fast && 
 -- Detecting C compiler ABI info - failed
 -- Check for working C compiler: /usr/bin/cc
-CMake Error: Generator: execution of make failed. Make command was: usr/bin/make -f Makefile cmTC_30fe7/fast && 
+CMake Error: Generator: execution of make failed. Make command was: usr/bin/make -f Makefile cmTC_86aaa/fast && 
 -- Check for working C compiler: /usr/bin/cc - broken
 CMake Error at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/Modules/CMakeTestCCompiler.cmake:70 (message):
   The C compiler
@@ -16,10 +16,10 @@ CMake Error at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25/M
 
   It fails with the following output:
 
-    Change Dir: /Users/sahuankit010/Desktop/Repo/Revising-Object-Oriented-Concepts-using-CPP/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-qAmJZF
+    Change Dir: /Users/sahuankit010/Desktop/Repo/Revising-Object-Oriented-Concepts-using-CPP/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-O9zKFE
     
-    Run Build Command(s):usr/bin/make -f Makefile cmTC_30fe7/fast && No such file or directory
-    Generator: execution of make failed. Make command was: usr/bin/make -f Makefile cmTC_30fe7/fast && 
+    Run Build Command(s):usr/bin/make -f Makefile cmTC_86aaa/fast && No such file or directory
+    Generator: execution of make failed. Make command was: usr/bin/make -f Makefile cmTC_86aaa/fast && 
     
 
   
