@@ -343,3 +343,18 @@ Run Build Command(s):usr/bin/make -f Makefile cmTC_86aaa/fast && No such file or
 Generator: execution of make failed. Make command was: usr/bin/make -f Makefile cmTC_86aaa/fast && 
 
 
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: /Users/sahuankit010/Desktop/Repo/Revising-Object-Oriented-Concepts-using-CPP/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-gRvvFm
+
+Run Build Command(s):usr/bin/make -f Makefile cmTC_8b888/fast && No such file or directory
+Generator: execution of make failed. Make command was: usr/bin/make -f Makefile cmTC_8b888/fast && 
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: /Users/sahuankit010/Desktop/Repo/Revising-Object-Oriented-Concepts-using-CPP/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-GFtXrV
+
+Run Build Command(s):usr/bin/make -f Makefile cmTC_28f31/fast && No such file or directory
+Generator: execution of make failed. Make command was: usr/bin/make -f Makefile cmTC_28f31/fast && 
+
+

@@ -13,14 +13,14 @@ void funcChessBook(int n){
         if (i%2==0)even += 'W';
         else even+='B';
     }
-    for()
-    bool c = true;
-    for(int i=0; i<n; i++){
-
-        for(int j=0; j<n; j++){
-            if
-        }
-    }
+//    for()
+//    bool c = true;
+//    for(int i=0; i<n; i++){
+//
+//        for(int j=0; j<n; j++){
+//            if
+//        }
+//    }
 }
 
 int main(){
