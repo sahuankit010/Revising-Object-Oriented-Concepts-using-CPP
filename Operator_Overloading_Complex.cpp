@@ -3,8 +3,16 @@
 //
 #include <iostream>
 
-using namespace std;
 
+using namespace std;
+namespace  n1{
+    template <typename T> T print(T a){
+        cout<<a<<endl;
+    }
+}
+
+
+using namespace  n1;
 class Complex{
     int r, i;
 public:
@@ -37,5 +45,6 @@ int main(){
     Complex c4 = Complex(20, 20) - c3;
 
     c3.print();
+    print(1);
     c4.print();
 }
