@@ -6,6 +6,10 @@
 #include <set>
 using namespace std;
 
+class copyConstructor{
+    int a;
+};
+
 int main ()
 {
     std::set<int> myset;
